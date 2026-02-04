@@ -49,3 +49,18 @@ db/
 scripts/
 sql/
 docs/
+
+## How to Run
+1. Create virtual environment
+2. Install dependencies
+3. Run `generate_data.py`
+4. Query SQLite database using SQL files
+
+## Key Takeaways
+- High accuracy does not guarantee on-time delivery
+- Certain reps handle significantly higher volume
+- Response time correlates with late deliveries
+
+---
+*Built as a portfolio project for operations & data analytics roles.*
+
