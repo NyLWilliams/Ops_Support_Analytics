@@ -1,0 +1,251 @@
+client_id,client_name,region,created_date
+C0001,Thomas Group,Northeast,2024-01-11
+C0002,"Austin, Eaton and Bowen",South,2024-04-06
+C0003,Graham Ltd,Midwest,2024-02-25
+C0004,White Inc,Northeast,2024-09-20
+C0005,Marks-Bush,Northeast,2024-08-18
+C0006,Johnson-Cooper,West,2024-01-14
+C0007,Davis-Thomas,Northeast,2024-02-07
+C0008,Bradley and Sons,Midwest,2024-04-01
+C0009,"Gutierrez, Smith and Morton",Northeast,2024-08-06
+C0010,Drake Inc,Midwest,2024-10-06
+C0011,Johnson LLC,West,2024-03-27
+C0012,Clark and Sons,West,2024-08-17
+C0013,"Thomas, Silva and Hicks",South,2024-11-11
+C0014,Long and Sons,Northeast,2024-10-22
+C0015,Ramos Inc,Midwest,2024-09-29
+C0016,Johnson and Sons,West,2024-05-13
+C0017,Lopez-Medina,South,2024-03-02
+C0018,Hawkins-Olson,Midwest,2024-10-24
+C0019,Boone-Holland,South,2024-02-10
+C0020,Odonnell Inc,Northeast,2024-05-28
+C0021,"Miller, Sullivan and Molina",Northeast,2024-05-20
+C0022,Williams LLC,South,2024-08-23
+C0023,Morrison-Burton,South,2024-11-10
+C0024,"Stout, Fleming and Bell",Northeast,2024-10-11
+C0025,"Johnson, Henry and Khan",West,2024-07-28
+C0026,"Cox, Ware and Jarvis",Northeast,2024-12-25
+C0027,"Wagner, Lopez and Gutierrez",West,2024-02-01
+C0028,Gardner PLC,South,2024-11-19
+C0029,Lewis Group,South,2024-08-13
+C0030,Jackson and Sons,Midwest,2024-10-01
+C0031,Farrell Group,Northeast,2024-01-19
+C0032,Skinner-Norton,Midwest,2024-10-28
+C0033,"Howard, Fisher and Taylor",South,2024-02-01
+C0034,"Yang, Coleman and Becker",Midwest,2024-12-03
+C0035,"Holmes, Houston and Schmitt",Northeast,2024-05-28
+C0036,Copeland-Wilson,South,2024-06-26
+C0037,Meyer-Collier,South,2024-03-05
+C0038,Wade PLC,South,2024-05-18
+C0039,Powell-Osborne,Midwest,2024-09-18
+C0040,"Watson, Mathis and Brown",South,2024-09-30
+C0041,Howard-Jones,Northeast,2024-08-25
+C0042,Villanueva-Pitts,Midwest,2024-07-27
+C0043,"Alvarez, Gray and Carr",Midwest,2024-03-05
+C0044,"Tucker, Haley and Moyer",West,2024-05-28
+C0045,Campbell-Howard,South,2024-12-26
+C0046,Dennis Inc,Midwest,2024-09-23
+C0047,Merritt-Simmons,South,2024-11-24
+C0048,"Edwards, Anderson and Miller",Northeast,2024-03-30
+C0049,Norton-Hansen,Northeast,2024-11-09
+C0050,Spencer LLC,South,2024-06-05
+C0051,"Boone, Morgan and Smith",South,2024-01-27
+C0052,Paul-Clark,Midwest,2024-12-21
+C0053,Durham Ltd,South,2024-03-24
+C0054,"Parrish, Thomas and Cox",West,2024-06-03
+C0055,Steele-Jensen,West,2024-02-26
+C0056,Pineda LLC,South,2024-02-25
+C0057,Haley Inc,Midwest,2024-10-17
+C0058,"Salazar, Soto and Adams",South,2024-10-18
+C0059,"Johnson, Cruz and Moore",West,2024-12-15
+C0060,Curtis-Price,West,2024-05-21
+C0061,"Cabrera, Wood and Lucero",Midwest,2024-02-24
+C0062,Reilly PLC,West,2024-02-06
+C0063,"Ryan, Pacheco and Mccoy",Northeast,2024-12-01
+C0064,"Stuart, Jones and Sandoval",Northeast,2024-03-01
+C0065,Brooks-Pacheco,Midwest,2024-11-04
+C0066,Mora Group,West,2024-08-20
+C0067,Miller LLC,Northeast,2024-05-30
+C0068,Mclaughlin Inc,West,2024-08-20
+C0069,"Murphy, Cook and Scott",West,2024-07-25
+C0070,Carter-Williams,South,2024-08-03
+C0071,Johnson-Jenkins,Northeast,2024-09-22
+C0072,Meyer Ltd,Northeast,2024-09-22
+C0073,Day-Gardner,South,2024-10-26
+C0074,Rogers PLC,South,2024-02-14
+C0075,"Mack, Spears and Williams",South,2024-06-18
+C0076,Morgan-Briggs,Midwest,2024-06-26
+C0077,Conrad-Manning,Northeast,2024-10-08
+C0078,Brown Group,South,2024-07-14
+C0079,Harrison-Watson,Midwest,2024-07-17
+C0080,Smith Inc,Northeast,2024-12-05
+C0081,"Rodriguez, Thomas and May",South,2024-11-23
+C0082,"Cooley, Mccarthy and Porter",Midwest,2024-03-01
+C0083,Young Ltd,South,2024-10-24
+C0084,"Martin, Velasquez and Carlson",Midwest,2024-07-29
+C0085,Fry LLC,Northeast,2024-08-21
+C0086,"Alvarado, Collins and Brown",South,2024-07-09
+C0087,Gordon-Clay,Northeast,2024-02-14
+C0088,Green-Turner,South,2024-12-08
+C0089,"Pollard, Stevens and Mccormick",South,2024-04-03
+C0090,Jones-Patterson,Northeast,2024-04-04
+C0091,Morris-Hopkins,Northeast,2024-02-04
+C0092,Smith-Reilly,West,2024-11-13
+C0093,Howell Ltd,Northeast,2024-10-23
+C0094,"Bryant, Reed and Trevino",Midwest,2024-02-20
+C0095,"Hahn, Munoz and Hill",West,2024-08-02
+C0096,"Frazier, Lewis and Harding",Midwest,2024-04-13
+C0097,Hall Inc,West,2024-03-24
+C0098,"Young, Austin and Gonzalez",Midwest,2024-10-04
+C0099,"West, Miller and Perez",South,2024-06-04
+C0100,"Dunn, Barnes and Johnston",South,2024-06-20
+C0101,James Ltd,West,2024-02-17
+C0102,Lee Group,Midwest,2024-03-29
+C0103,Henderson-Sanchez,Northeast,2024-05-12
+C0104,"Compton, Ho and Li",Northeast,2024-08-17
+C0105,Stephens-Haynes,Midwest,2024-08-17
+C0106,"Phelps, Phillips and Gilbert",Midwest,2024-01-04
+C0107,Williams-Flynn,Northeast,2024-10-02
+C0108,Taylor Inc,Northeast,2024-03-30
+C0109,Melendez Inc,Northeast,2024-12-18
+C0110,Braun-Browning,Northeast,2024-11-30
+C0111,Murillo-Moran,South,2024-01-29
+C0112,Kemp-Martinez,Midwest,2024-04-19
+C0113,Brennan-Mccullough,West,2024-03-25
+C0114,Hughes and Sons,Midwest,2024-10-08
+C0115,Hull and Sons,West,2024-04-05
+C0116,"Mitchell, Campos and Thompson",West,2024-11-10
+C0117,Griffin Inc,West,2024-03-15
+C0118,Jones LLC,Northeast,2024-02-08
+C0119,Griffith Group,West,2024-05-18
+C0120,Hill LLC,West,2024-06-09
+C0121,Chapman PLC,West,2024-12-02
+C0122,Martinez-Valdez,Northeast,2024-09-19
+C0123,"Johnston, Edwards and Hernandez",Northeast,2024-01-25
+C0124,Bennett PLC,West,2024-10-10
+C0125,"Humphrey, Newton and Jacobs",South,2024-11-07
+C0126,Sims LLC,Northeast,2024-04-07
+C0127,Pearson-Hall,Midwest,2024-03-15
+C0128,"Lee, Trevino and Romero",West,2024-02-25
+C0129,"Yang, Parsons and Freeman",West,2024-03-13
+C0130,Kelly Group,South,2024-06-29
+C0131,Price LLC,Midwest,2024-12-06
+C0132,Schmidt-Bradley,Northeast,2024-06-22
+C0133,Osborne LLC,Northeast,2024-01-21
+C0134,"Stein, Martinez and Becker",Northeast,2024-02-07
+C0135,Wiley PLC,Midwest,2024-03-06
+C0136,"Stephenson, Harris and Webster",West,2024-07-08
+C0137,Scott-Ball,West,2024-03-25
+C0138,Yu-May,West,2024-12-17
+C0139,"Thompson, Pope and Poole",Northeast,2024-03-05
+C0140,Berger-Gallagher,West,2024-01-02
+C0141,"Burns, Jones and Moran",West,2024-04-13
+C0142,"Robinson, Thomas and Nguyen",West,2024-04-21
+C0143,Carter-Horton,West,2024-09-28
+C0144,Chapman-Reyes,West,2024-03-02
+C0145,"Butler, Johnson and Eaton",Midwest,2024-04-26
+C0146,Kennedy-Ford,Midwest,2024-01-24
+C0147,Mason Group,Northeast,2024-10-18
+C0148,"Carey, Grant and Brandt",South,2024-01-24
+C0149,"Richardson, Reyes and Hughes",Northeast,2024-08-15
+C0150,Moore Group,West,2024-07-15
+C0151,Torres-Montgomery,Midwest,2024-01-24
+C0152,Dougherty-Flores,Northeast,2024-11-27
+C0153,Wilson-Black,Midwest,2024-01-28
+C0154,"Williams, Flores and Aguirre",Northeast,2024-09-20
+C0155,Sullivan-Ingram,Midwest,2024-06-06
+C0156,Ware Inc,Northeast,2024-12-12
+C0157,"Chavez, Butler and Doyle",Midwest,2024-08-13
+C0158,Jones Ltd,Northeast,2024-08-29
+C0159,Harrison-Gonzalez,Northeast,2024-06-12
+C0160,Anderson-Jensen,South,2024-12-30
+C0161,Curtis PLC,South,2024-03-21
+C0162,"Walters, Chavez and Owens",South,2024-04-03
+C0163,Chavez PLC,South,2024-06-03
+C0164,Brown Inc,Midwest,2024-09-18
+C0165,Rodriguez Inc,South,2024-06-27
+C0166,"Morton, Dunn and Ortiz",South,2024-12-27
+C0167,Holmes-Salazar,Northeast,2024-01-05
+C0168,French-Neal,West,2024-08-30
+C0169,Moore-Johnson,Northeast,2024-01-30
+C0170,"Avery, Bowman and Black",Midwest,2024-07-16
+C0171,Maldonado Ltd,South,2024-02-22
+C0172,"Kerr, Schaefer and Miller",South,2024-12-09
+C0173,Lucas-Vazquez,Northeast,2024-12-08
+C0174,Perez-Montgomery,Midwest,2024-05-24
+C0175,Stanley-Morris,South,2024-03-03
+C0176,Martinez-Collins,West,2024-11-20
+C0177,Stewart-Snyder,South,2024-08-26
+C0178,Donaldson Ltd,Northeast,2024-09-17
+C0179,"Casey, Hooper and Smith",South,2024-12-28
+C0180,Ross Inc,Northeast,2024-12-31
+C0181,Silva-Harrison,Midwest,2024-04-13
+C0182,Davidson Inc,Northeast,2024-12-12
+C0183,Campbell-Grant,Northeast,2024-10-16
+C0184,Wong-Carney,Midwest,2024-04-16
+C0185,Kane-Stevens,South,2024-08-23
+C0186,Hughes-Peters,Midwest,2024-10-06
+C0187,"Hines, Johnson and Cameron",South,2024-03-21
+C0188,Sims and Sons,South,2024-07-16
+C0189,"Martinez, Jordan and Lopez",West,2024-04-08
+C0190,Ward Inc,Northeast,2024-02-06
+C0191,Chen Group,West,2024-11-19
+C0192,"Thomas, Lucero and Weaver",South,2024-01-19
+C0193,Livingston-Phelps,Northeast,2024-05-10
+C0194,Lowe and Sons,Midwest,2024-09-05
+C0195,"Hines, Boone and Chapman",South,2024-03-04
+C0196,"Smith, Melendez and Howard",West,2024-08-03
+C0197,"Franklin, Frank and Larsen",West,2024-08-06
+C0198,Hall Inc,Northeast,2024-02-14
+C0199,Stanley-Valdez,Northeast,2024-12-09
+C0200,"Vaughan, Figueroa and Branch",Midwest,2024-07-31
+C0201,"Myers, Snyder and Anthony",Northeast,2024-11-21
+C0202,"Hood, Mendoza and Munoz",South,2024-08-15
+C0203,Gross-Adams,Midwest,2024-06-16
+C0204,Turner-Garcia,Midwest,2024-01-18
+C0205,Reid LLC,South,2024-05-22
+C0206,"Rogers, Clark and Glover",Northeast,2024-12-16
+C0207,Taylor-Vargas,South,2024-03-23
+C0208,Morrison Group,Midwest,2024-09-17
+C0209,Herrera Inc,Northeast,2024-05-18
+C0210,"Griffin, Newman and Maynard",West,2024-08-30
+C0211,Becker Inc,Midwest,2024-12-26
+C0212,Lester-Hernandez,Midwest,2024-12-02
+C0213,Finley-Miller,Midwest,2024-11-07
+C0214,"Carter, King and Hanna",Midwest,2024-12-09
+C0215,Duffy Group,West,2024-01-11
+C0216,"Johnson, Brady and Smith",Midwest,2024-10-14
+C0217,Romero-Vasquez,South,2024-10-31
+C0218,Guerrero-Nolan,West,2024-11-08
+C0219,Andrews-Williams,Midwest,2024-04-14
+C0220,King-Bullock,Midwest,2024-11-02
+C0221,Monroe-Jones,Northeast,2024-05-29
+C0222,Henderson-Curtis,Northeast,2024-11-30
+C0223,Monroe Group,West,2024-03-28
+C0224,Hernandez-Martin,Midwest,2024-11-14
+C0225,"Smith, Gomez and Hill",West,2024-05-16
+C0226,"Smith, Johnson and Edwards",South,2024-11-15
+C0227,"Bradley, Ruiz and Jones",Midwest,2024-03-28
+C0228,Silva LLC,Northeast,2024-09-14
+C0229,Monroe Group,Midwest,2024-06-04
+C0230,Kirby-Salas,South,2024-04-19
+C0231,"Hart, Phillips and Rodriguez",Northeast,2024-10-28
+C0232,White PLC,South,2024-05-17
+C0233,Barnett-Nguyen,West,2024-09-21
+C0234,"Morgan, Hebert and Waller",South,2024-12-31
+C0235,Elliott Group,Northeast,2024-02-15
+C0236,"Sanders, Buchanan and Singh",South,2024-03-11
+C0237,Day LLC,South,2024-01-16
+C0238,"Sutton, Thompson and Wilson",Northeast,2024-08-20
+C0239,"Benson, Tucker and Brown",West,2024-05-15
+C0240,"Mcknight, Hughes and James",South,2024-06-19
+C0241,Bush-Mills,Northeast,2024-05-30
+C0242,"Nunez, Zamora and Robinson",Midwest,2024-04-09
+C0243,Lloyd-Santiago,Northeast,2024-10-03
+C0244,"Wilson, Mueller and Burgess",West,2024-01-02
+C0245,Buck PLC,Midwest,2024-05-22
+C0246,"Burke, Simmons and Murillo",West,2024-01-29
+C0247,Diaz-Ramirez,South,2024-08-31
+C0248,"Morgan, Best and Suarez",South,2024-09-15
+C0249,Livingston-Sexton,Northeast,2024-10-07
+C0250,Fox and Sons,South,2024-07-16

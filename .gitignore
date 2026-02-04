@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+._*
+Thumbs.db
+
+# SQLite temp
+*.db-wal
+*.db-shm
+
+# VS Code
+.vscode/
+
+# Optional (uncomment if you don't want to push generated data/db)
+# db/*.db
+# data/raw/*.csv
+# data/processed/*.csv
